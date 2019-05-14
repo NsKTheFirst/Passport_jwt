@@ -56,8 +56,11 @@ The password is firstly salted with the **bcrypt** method **genSalt**. Then the 
 
 
 ## Details
-### Author
-Vamshi Adi, Nicolas Jouenne(readme).
+### Authors
+Vamshi Adi
+
+### Contributors
+Pierre Berthelemy, Nicolas Jouenne.
 
 ### Licence
 ISC
